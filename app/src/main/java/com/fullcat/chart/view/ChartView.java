@@ -1,4 +1,4 @@
-package com.fullcat.chat.view;
+package com.fullcat.chart.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

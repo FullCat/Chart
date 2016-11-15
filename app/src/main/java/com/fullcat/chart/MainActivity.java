@@ -1,9 +1,9 @@
-package com.fullcat.chat;
+package com.fullcat.chart;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.fullcat.chat.view.ChartView;
+import com.fullcat.chart.view.ChartView;
 
 import java.util.ArrayList;
 import java.util.List;
